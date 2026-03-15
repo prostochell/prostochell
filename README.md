@@ -8,10 +8,10 @@ I am an Embedded Engineer with a solid background in C/C++ for microcontrollers 
 ---
 
 ### 💼 Work Experience
-* **Embedded/Hardware Engineer** @ Scopa Industries (Dec 2024 – Present) — *C++, PCB Design* [cite: 23, 25]
-* **Embedded/Hardware Engineer** @ Ajax Systems (Aug 2025 – Oct 2025) — *C, C++, PCB Design* [cite: 19, 20, 21]
-* **TL of Tech Support & Lead Content Manager** @ GoITeens (Apr 2023 – Jul 2025) [cite: 15, 16, 17, 18]
-* **Head of Robotics Club** @ Fastiv Lyceum No.1 (Sep 2021 – Sep 2023) [cite: 13]
+* **Embedded/Hardware Engineer** @ Scopa Industries (Dec 2024 – Present) — *C++, PCB Design*
+* **Embedded/Hardware Engineer** @ Ajax Systems (Aug 2025 – Oct 2025) — *C, C++, PCB Design*
+* **TL of Tech Support & Lead Content Manager** @ GoITeens (Apr 2023 – Jul 2025)
+* **Head of Robotics Club** @ Fastiv Lyceum No.1 (Sep 2021 – Sep 2023)
 
 ### 🎓 Education
 * **B.Sc. in Telecommunications and Radio Engineering** — Taras Shevchenko National University of Kyiv (Graduated June 2025) 
@@ -19,12 +19,12 @@ I am an Embedded Engineer with a solid background in C/C++ for microcontrollers 
 ---
 
 ### 🛠 Technical Skills
-* **Microcontrollers:** Arduino, ESP32, STM32 (SPI, I2C, UART, GPIO) [cite: 4]
-* **Hardware Design:** Altium Designer (Multilayer PCBs, DRC), EasyEDA [cite: 45, 49]
-* **HDL & FPGA:** Verilog HDL, SystemVerilog HDL, Intel Quartus II [cite: 6]
-* **Simulation:** LTspice (Analog/Mixed-signal), NI Multisim [cite: 46, 48]
-* **Mechanical Design:** Autodesk Fusion 360 (3D enclosure modeling) [cite: 50]
-* **Languages:** C, C++, Python (Basic), Linux (Bash) [cite: 4, 5]
+* **Microcontrollers:** Arduino, ESP32, STM32 (SPI, I2C, UART, GPIO)
+* **Hardware Design:** Altium Designer (Multilayer PCBs, DRC), EasyEDA
+* **HDL & FPGA:** Verilog HDL, SystemVerilog HDL, Intel Quartus II
+* **Simulation:** LTspice (Analog/Mixed-signal), NI Multisim 
+* **Mechanical Design:** Autodesk Fusion 360 (3D enclosure modeling) 
+* **Languages:** C, C++, Python (Basic), Linux (Bash)
 
 ---
 ### 🛠 Tech Stack & Professional Tools
@@ -52,7 +52,7 @@ I am an Embedded Engineer with a solid background in C/C++ for microcontrollers 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📫 Connect with me
-* **LinkedIn:** [nazar-lysenko](https://www.linkedin.com/in/nazar-lysenko-5356202a1/) [cite: 53]
+* **LinkedIn:** [nazar-lysenko](https://www.linkedin.com/in/nazar-lysenko-5356202a1/)
 * **Telegram/Instagram:** @nazarlysenkoo 
 * **Email:** nazarlysenkoo@gmail.com
 
