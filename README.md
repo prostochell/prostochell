@@ -53,8 +53,8 @@ I am an Embedded Engineer with a solid background in C/C++ for microcontrollers 
 
 ### 📫 Connect with me
 * **LinkedIn:** [nazar-lysenko](https://www.linkedin.com/in/nazar-lysenko-5356202a1/) [cite: 53]
-* **Telegram/Instagram:** @nazarlysenkoo [cite: 52]
-* **Email:** nazarlysenkoo@gmail.com [cite: 52]
+* **Telegram/Instagram:** @nazarlysenkoo 
+* **Email:** nazarlysenkoo@gmail.com
 
 ---
 *"C gives you enough rope to shoot yourself in the foot. C++ provides a high-level abstraction for blowing your entire leg off."*
