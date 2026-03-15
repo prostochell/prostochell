@@ -28,10 +28,10 @@ I am an Embedded Engineer with a solid background in C/C++ for microcontrollers 
 
 ---
 
-### 📊 GitHub Stats
-![Nazar's Stats](https://github-readme-stats.vercel.app/api?username=prostochell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prostochell&layout=compact&theme=radical)
-
+### 🛠️ Professional Engineering Tools
+![Altium](https://img.shields.io/badge/Altium_Designer-white?style=for-the-badge&logo=altium&logoColor=red)
+![Fusion 360](https://img.shields.io/badge/Autodesk_Fusion_360-orange?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-blue?style=for-the-badge&logo=kicad&logoColor=white)
 ---
 
 ### 📫 Connect with me
